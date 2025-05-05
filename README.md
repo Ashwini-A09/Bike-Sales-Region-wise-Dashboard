@@ -10,7 +10,7 @@ Visualize customer segments using Excel dashboard features
 Build a clean, insight-driven dashboard for business use
 
 
-🔍 Key Insights
+🔍 **Key Insights**
 
 ✅ Gender: Males are more likely to buy bikes — 71% of male customers purchased a bike compared to 26% of females.
 
@@ -23,7 +23,7 @@ Build a clean, insight-driven dashboard for business use
 ✅ Overall Conversion Rate: Out of 8 customers in the sample shown, 3 purchased bikes, giving a conversion rate of 37.5%.
 
 
-🧰 Tools Used
+🧰 **Tools Used**
 
   - Microsoft Excel
   - Pivot Tables
@@ -31,7 +31,7 @@ Build a clean, insight-driven dashboard for business use
   - Slicers (for Region, Marital Status, Education)
   - Interactive Dashboard
 
-📈 Dashboard Features
+📈 **Dashboard Features**
 
 - Dynamic filters for:
   - Region: Europe, North America, Pacific
@@ -42,14 +42,19 @@ Build a clean, insight-driven dashboard for business use
   - Customer Commute vs Purchase
   - Age Bracket vs Purchase Behavior
 
-💼 What I Learned
+📷 **Dashboard Preview**
+
+![Uploading Bike Sales Dashboard.png…]()
+
+💼 **What I Learned**
 
 How to organize raw data for pivot analysis
 Building user-friendly dashboards in Excel
 Deriving insights from patterns across customer segments
 Communicating findings in a business context
 
-📌 Conclusion
+
+📌 **Conclusion**
 
 This Excel dashboard provides valuable insights into who buys bikes and why, helping sales and marketing teams target the right demographics effectively.
 
