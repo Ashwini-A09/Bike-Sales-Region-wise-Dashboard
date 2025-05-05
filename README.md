@@ -43,8 +43,8 @@ Build a clean, insight-driven dashboard for business use
   - Age Bracket vs Purchase Behavior
 
 📷 **Dashboard Preview**
+<img width="380" alt="Bike Sales Dashboard" src="https://github.com/user-attachments/assets/ee786be0-7e85-436f-8cfb-35f2ff0600a9" />
 
-![Uploading Bike Sales Dashboard.png…]()
 
 💼 **What I Learned**
 
