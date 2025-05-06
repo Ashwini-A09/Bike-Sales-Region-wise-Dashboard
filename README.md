@@ -1,5 +1,5 @@
 # Bike-Sales-Dashboard
-Description : Excel dashboard project analyzing bike purchase trends by customer demographics.
+Excel dashboard project analyzing bike purchase trends by customer demographics.
 
 # Project Overview 
 To analyze customer demographics and behavior to uncover insights that influence bike purchase decisions using Excel pivot tables and dashboards.
